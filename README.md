@@ -1,5 +1,3 @@
-# Hi, I'm Radhika 👋
-
 # Hi, I'm Radhika Vishwakarma 👋
 
 ## Data Analyst | Power BI | SQL | Excel | PostgreSQL
