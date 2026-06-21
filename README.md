@@ -1,6 +1,6 @@
 # Hi, I'm Radhika Vishwakarma 👋
 
-## Data Analyst | Power BI | SQL | Excel | PostgreSQL
+## Data Analyst | Power BI | SQL | Excel | PostgreSQL | Python
 
 I am an aspiring Data Analyst passionate about transforming raw data into actionable business insights through data visualization, business intelligence, and analytics.
 
@@ -26,7 +26,7 @@ I enjoy working with datasets, identifying trends, building dashboards, and solv
 * Excel
 * DAX
 * Power Query
-
+* Python
 ---
 
 ## Featured Projects
